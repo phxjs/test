@@ -1,5 +1,5 @@
 # test
 
-go to Settings tab in the repo site and find the GitHub Page Settings
+go to Settings tab in the repo site and find the `GitHub Pages` section.
 
 check out more info at https://pages.github.com/
