@@ -8,4 +8,6 @@ check out more info at https://pages.github.com/
 
 ```bash
 npx vite
+# or use npm script
+npm run dev
 ```
